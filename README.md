@@ -1,1 +1,1 @@
-# hand-written-text-generation
+# Handwriting-text-generation
